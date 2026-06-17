@@ -1,0 +1,29 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>UnoGame</id>
+    <version>1.0.0</version>
+    <authors>UnoGame</authors>
+    <description>Package Description</description>
+    <repository type="git" />
+    <dependencies>
+      <group targetFramework="net8.0-windows10.0.26100">
+        <dependency id="Newtonsoft.Json" version="13.0.4" exclude="Build,Analyzers" />
+      </group>
+    </dependencies>
+    <frameworkReferences>
+      <group targetFramework="net8.0-windows10.0.26100">
+        <frameworkReference name="Microsoft.WindowsDesktop.App.WindowsForms" />
+      </group>
+    </frameworkReferences>
+    <contentFiles>
+      <files include="any/net8.0-windows10.0.26100/favicon.ico" buildAction="Content" />
+    </contentFiles>
+  </metadata>
+  <files>
+    <file src="C:\Users\YuMoo_\OneDrive\Works\Program\UnoGame\UnoGame\bin\Release\net8.0-windows10.0.26100.0\UnoGame.runtimeconfig.json" target="lib\net8.0-windows10.0.26100\UnoGame.runtimeconfig.json" />
+    <file src="C:\Users\YuMoo_\OneDrive\Works\Program\UnoGame\UnoGame\bin\Release\net8.0-windows10.0.26100.0\UnoGame.dll" target="lib\net8.0-windows10.0.26100\UnoGame.dll" />
+    <file src="C:\Users\YuMoo_\OneDrive\Works\Program\UnoGame\UnoGame\favicon.ico" target="content\favicon.ico" />
+    <file src="C:\Users\YuMoo_\OneDrive\Works\Program\UnoGame\UnoGame\favicon.ico" target="contentFiles\any\net8.0-windows10.0.26100\favicon.ico" />
+  </files>
+</package>
