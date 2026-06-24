@@ -51,5 +51,5 @@
 ## 📦 下载与运行
 
 ### 直接下载编译好的可执行文件
-1. 前往 [Releases](https://github.com/your-username/uno-windows/releases) 下载最新版本。
+1. 前往 [Releases](https://github.com/CLoneLING/UnoGame/releases) 下载最新版本。
 2. 下载后双击 `UnoGame.exe` 启动。
