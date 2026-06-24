@@ -1,10 +1,10 @@
-# 🃏 UNO 联机对战 - Windows 版
+# 🃏 UnoGame
 
 **一款基于 TCP 的经典 UNO 卡牌游戏，支持 2~14 人远程联机，手绘风格牌面，房主开服，成员直连。**
 
-![C#](https://img.shields.io/badge/C%23-8.0-blue.svg)
-![.NET](https://img.shields.io/badge/.NET-8-purple.svg)
-![Windows](https://img.shields.io/badge/Windows-10%2B-0078d6.svg)
+[![Support](https://img.shields.io/badge/Windows-支持-green/?logo=data:image/svg+xml;charset=utf-8;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz48IS0tIFVwbG9hZGVkIHRvOiBTVkcgUmVwbywgd3d3LnN2Z3JlcG8uY29tLCBHZW5lcmF0b3I6IFNWRyBSZXBvIE1peGVyIFRvb2xzIC0tPgo8c3ZnIHdpZHRoPSI4MDBweCIgaGVpZ2h0PSI4MDBweCIgdmlld0JveD0iMCAwIDE2IDE2IiB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIGZpbGw9Im5vbmUiPjxwYXRoIGZpbGw9IiNGMzUzMjUiIGQ9Ik0xIDFoNi41djYuNUgxVjF6Ii8+PHBhdGggZmlsbD0iIzgxQkMwNiIgZD0iTTguNSAxSDE1djYuNUg4LjVWMXoiLz48cGF0aCBmaWxsPSIjMDVBNkYwIiBkPSJNMSA4LjVoNi41VjE1SDFWOC41eiIvPjxwYXRoIGZpbGw9IiNGRkJBMDgiIGQ9Ik04LjUgOC41SDE1VjE1SDguNVY4LjV6Ii8+PC9zdmc+)](https://github.com/CLoneLING/WindowsGarbageCleaner)
+[![Buildon](https://img.shields.io/badge/Build_on-C%23-green/?logo=dotnet)](https://learn.microsoft.com/zh-cn/dotnet/csharp/)
+
 
 ---
 
