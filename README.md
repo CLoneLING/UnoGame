@@ -3,9 +3,8 @@
 **一款基于 TCP 的经典 UNO 卡牌游戏，支持 2~14 人远程联机，手绘风格牌面，房主开服，成员直连。**
 
 ![C#](https://img.shields.io/badge/C%23-8.0-blue.svg)
-![.NET](https://img.shields.io/badge/.NET-6.0--8.0-purple.svg)
+![.NET](https://img.shields.io/badge/.NET-8-purple.svg)
 ![Windows](https://img.shields.io/badge/Windows-10%2B-0078d6.svg)
-![License](https://img.shields.io/badge/License-MIT-green.svg)
 
 ---
 
